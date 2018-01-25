@@ -11,8 +11,8 @@ All cool things found on the Internet regarding WebGL
 ### Browser 
 1. [WebGl Inspector](https://chrome.google.com/webstore/detail/webgl-inspector/ogkcjmbhnfmlnielkjhedpcjomeaghda) Plugin
 2. [WebGl Insight](https://chrome.google.com/webstore/detail/webgl-insight/djdcbmfacaaocoomokenoalbomllhnko) Plugin
-3. Google Chrome "about:tracing" flalg, with article [Profiling your WebGL Game with the about:tracking fleg](https://www.html5rocks.com/en/tutorials/games/abouttracing/)
+3. Google Chrome "about:tracing" flalg, with article [Profiling your WebGL Game with the about:tracking flag](https://www.html5rocks.com/en/tutorials/games/abouttracing/) by Lilli Thompson
 4. Mozilla Firefox "Shader Editor" and "Canvas" within Developer Tools.
 
 ### Desktop Tools
-1. [PVRShaderEditor](https://community.imgtec.com/developers/powervr/tools/pvrshadereditor/)
+1. [PVRShaderEditor](https://community.imgtec.com/developers/powervr/tools/pvrshadereditor/) from PowerVR from ImaginationCommunity
