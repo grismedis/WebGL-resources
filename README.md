@@ -16,3 +16,8 @@ All cool things found on the Internet regarding WebGL
 
 ### Desktop Tools
 1. [PVRShaderEditor](https://community.imgtec.com/developers/powervr/tools/pvrshadereditor/) from PowerVR from ImaginationCommunity
+
+
+### Editor Intellisense
+1. Sublime Text Editor support for [WebGL](https://github.com/katsew/WebGLCompletions) by [Yu Kato](http://katsew.github.io/)
+2. MS Code Editor support with [TypeScript](https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/webgl-ext) can be installed with [npmjs.com](https://www.npmjs.com/package/@types/webgl-ext)
