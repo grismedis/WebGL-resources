@@ -14,15 +14,16 @@ All cool things found on the Internet regarding WebGL
 
 > "This is a self-guided workshop introducing you to the magic of fragment shaders."
 
+4. Reference card for [WebGL](https://www.khronos.org/files/webgl/webgl-reference-card-1_0.pdf) and [WebGL2](https://www.khronos.org/files/webgl20-reference-guide.pdf) by Khronos Group. 
 
 ## Debuging Tools
 ### Browser 
 1. [WebGL Inspector](https://chrome.google.com/webstore/detail/webgl-inspector/ogkcjmbhnfmlnielkjhedpcjomeaghda) Plugin
 2. [WebGL Insight](https://chrome.google.com/webstore/detail/webgl-insight/djdcbmfacaaocoomokenoalbomllhnko) Plugin
-3. Google Chrome "about:tracing" flalg, with article [Profiling your WebGL Game with the about:tracking flag](https://www.html5rocks.com/en/tutorials/games/abouttracing/) by Lilli Thompson
+3. Google Chrome "about:tracing" flalg, with article ["Profiling your WebGL Game with the about:tracking flag"](https://www.html5rocks.com/en/tutorials/games/abouttracing/) by Lilli Thompson
 4. Mozilla Firefox "Shader Editor" and "Canvas" within Developer Tools.
 
-### Desktop Tools
+### Desktop
 1. [PVRShaderEditor](https://community.imgtec.com/developers/powervr/tools/pvrshadereditor/) from PowerVR from ImaginationCommunity
 
 
