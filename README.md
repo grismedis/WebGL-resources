@@ -38,6 +38,8 @@ All cool things found on the Internet regarding WebGL
 
 ## Frameworks
 1. [stackgl](https://stack.gl/) is an open software ecosystem for WebGL, built on top of browserify and npm.
+2. [regl](http://regl.party/) is an open specification that makes it possible to experience VR in your browser.
+3. [WebVR](https://webvr.info/) is a new functional abstraction for wegbl.
 
 ## Miscellaneous
 1. [Shader Toy](https://www.shadertoy.com/)
