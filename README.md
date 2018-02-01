@@ -10,6 +10,8 @@ All cool things found on the Internet regarding WebGL
 
 > "WebGL from the ground up. No magic."
 
+4. [WebGL Insights](http://webglinsights.com/) edited by [Patrick Cozzi](https://twitter.com/pjcozzi) and published by CRC Press.
+
 3. [Fragment Foundry](http://hughsk.io/fragment-foundry/chapters/01-hello-world.html) by Hugh Kennedy.
 
 > "This is a self-guided workshop introducing you to the magic of fragment shaders."
@@ -37,5 +39,6 @@ All cool things found on the Internet regarding WebGL
 ## Frameworks
 1. [stackgl](https://stack.gl/) is an open software ecosystem for WebGL, built on top of browserify and npm.
 
-## For Fun
+## Miscellaneous
 1. [Shader Toy](https://www.shadertoy.com/)
+2. [WebGL Stats](https://webglstats.com/webgl) by [Florian Bösch](https://twitter.com/pyalot)
