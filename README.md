@@ -18,7 +18,7 @@ All cool things found on the Internet regarding WebGL
 
 4. Reference card for [WebGL](https://www.khronos.org/files/webgl/webgl-reference-card-1_0.pdf) and [WebGL2](https://www.khronos.org/files/webgl20-reference-guide.pdf) by Khronos Group. 
 
-## Debuging Tools
+## Debugging Tools
 1. [SpectorJS](http://spector.babylonjs.com/) by [Seb](https://github.com/sebavan), [David Catuhe](https://twitter.com/deltakosh), [Julian Chenard](https://twitter.com/Temechon) and [David Rousset](https://twitter.com/davrous).
 > A complete engine agnostic JavaScript framework for exploring and troubleshooting your WebGL scenes with ease.
 
@@ -44,3 +44,4 @@ All cool things found on the Internet regarding WebGL
 ## Miscellaneous
 1. [Shader Toy](https://www.shadertoy.com/)
 2. [WebGL Stats](https://webglstats.com/webgl) by [Florian Bösch](https://twitter.com/pyalot)
+3. [SIGGRAPH University - "An Introduction to WebGL Programming"](https://www.youtube.com/watch?v=tgVLb6fOVVc) by Edward Angel and Dave Shreiner at SIGGRAPH 2014 in Vancouver. As well available in [PDF form](https://www.cs.unm.edu/~angel/SIGGRAPH14/Introduction%20to%20WebGL%20Programming.pdf) as combination of speakers notes and slides.
