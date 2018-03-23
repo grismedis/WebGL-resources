@@ -18,15 +18,18 @@ All cool things found on the Internet regarding WebGL
 
 4. Reference card for [WebGL](https://www.khronos.org/files/webgl/webgl-reference-card-1_0.pdf) and [WebGL2](https://www.khronos.org/files/webgl20-reference-guide.pdf) by Khronos Group. 
 
+5. Nvidia's series of books about real-time computer graphics [GPU Gems](https://developer.nvidia.com/gpugems/GPUGems/gpugems_pref01.html) by NVIDIA Demo Team.
+
 ## Debugging Tools
 1. [SpectorJS](http://spector.babylonjs.com/) by [Seb](https://github.com/sebavan), [David Catuhe](https://twitter.com/deltakosh), [Julian Chenard](https://twitter.com/Temechon) and [David Rousset](https://twitter.com/davrous).
 > A complete engine agnostic JavaScript framework for exploring and troubleshooting your WebGL scenes with ease.
 
 ### Browser 
-1. [WebGL Inspector](https://chrome.google.com/webstore/detail/webgl-inspector/ogkcjmbhnfmlnielkjhedpcjomeaghda) Plugin
-2. [WebGL Insight](https://chrome.google.com/webstore/detail/webgl-insight/djdcbmfacaaocoomokenoalbomllhnko) Plugin
+1. [WebGL Inspector](https://chrome.google.com/webstore/detail/webgl-inspector/ogkcjmbhnfmlnielkjhedpcjomeaghda) 
+2. [WebGL Insight](https://chrome.google.com/webstore/detail/webgl-insight/djdcbmfacaaocoomokenoalbomllhnko) 
 3. Google Chrome "about:tracing" flalg, with article ["Profiling your WebGL Game with the about:tracking flag"](https://www.html5rocks.com/en/tutorials/games/abouttracing/) by Lilli Thompson
 4. Mozilla Firefox "Shader Editor" and "Canvas" within Developer Tools.
+5. Spector.js Plugin for [Firefox](https://addons.mozilla.org/en-US/firefox/addon/spector-js/) and [Chrome](https://chrome.google.com/webstore/detail/spectorjs/denbgaamihkadbghdceggmchnflmhpmk?hl=fil)
 
 ### Desktop
 1. [PVRShaderEditor](https://community.imgtec.com/developers/powervr/tools/pvrshadereditor/) from PowerVR from ImaginationCommunity
