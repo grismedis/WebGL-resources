@@ -10,15 +10,19 @@ All cool things found on the Internet regarding WebGL
 
 > "WebGL from the ground up. No magic."
 
-4. [WebGL Insights](http://webglinsights.com/) edited by [Patrick Cozzi](https://twitter.com/pjcozzi) and published by CRC Press.
+3. [An introduction to Shaders](https://aerotwist.com/tutorials/an-introduction-to-shaders-part-1/) by Paul Lewis.
 
-3. [Fragment Foundry](http://hughsk.io/fragment-foundry/chapters/01-hello-world.html) by Hugh Kennedy.
+4. [Primer: Shaders](https://notes.underscorediscovery.com/shaders-a-primer/) by @___discovery
+
+5. [WebGL Insights](http://webglinsights.com/) edited by [Patrick Cozzi](https://twitter.com/pjcozzi) and published by CRC Press.
+
+6. [Fragment Foundry](http://hughsk.io/fragment-foundry/chapters/01-hello-world.html) by Hugh Kennedy.
 
 > "This is a self-guided workshop introducing you to the magic of fragment shaders."
 
-4. Reference card for [WebGL](https://www.khronos.org/files/webgl/webgl-reference-card-1_0.pdf) and [WebGL2](https://www.khronos.org/files/webgl20-reference-guide.pdf) by Khronos Group. 
+7. Reference card for [WebGL](https://www.khronos.org/files/webgl/webgl-reference-card-1_0.pdf) and [WebGL2](https://www.khronos.org/files/webgl20-reference-guide.pdf) by Khronos Group. 
 
-5. Nvidia's series of books about real-time computer graphics [GPU Gems](https://developer.nvidia.com/gpugems/GPUGems/gpugems_pref01.html) by NVIDIA Demo Team.
+8. Nvidia's series of books about real-time computer graphics [GPU Gems](https://developer.nvidia.com/gpugems/GPUGems/gpugems_pref01.html) by NVIDIA Demo Team.
 
 ## Debugging Tools
 1. [SpectorJS](http://spector.babylonjs.com/) by [Seb](https://github.com/sebavan), [David Catuhe](https://twitter.com/deltakosh), [Julian Chenard](https://twitter.com/Temechon) and [David Rousset](https://twitter.com/davrous).
