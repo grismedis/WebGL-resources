@@ -11,19 +11,19 @@ All cool things found on the Internet regarding WebGL
 > "WebGL from the ground up. No magic."
 
 3. [An introduction to Shaders](https://aerotwist.com/tutorials/an-introduction-to-shaders-part-1/) by Paul Lewis.
-
 4. [Primer: Shaders](https://notes.underscorediscovery.com/shaders-a-primer/) by @___discovery
-
 5. [WebGL Insights](http://webglinsights.com/) edited by [Patrick Cozzi](https://twitter.com/pjcozzi) and published by CRC Press.
-
 6. [Fragment Foundry](http://hughsk.io/fragment-foundry/chapters/01-hello-world.html) by Hugh Kennedy.
 
 > "This is a self-guided workshop introducing you to the magic of fragment shaders."
 
 7. Reference card for [WebGL](https://www.khronos.org/files/webgl/webgl-reference-card-1_0.pdf) and [WebGL2](https://www.khronos.org/files/webgl20-reference-guide.pdf) by Khronos Group. 
-
 8. Nvidia's series of books about real-time computer graphics [GPU Gems](https://developer.nvidia.com/gpugems/GPUGems/gpugems_pref01.html) by NVIDIA Demo Team.
 
+## Interactive courses
+ 1. [Nodeschool: Shader School](https://github.com/stackgl/shader-school) by [Stackgl](https://stack.gl/)
+ 2. [WebGL Academy](http://www.webglacademy.com/)
+ 
 ## Debugging Tools
 1. [SpectorJS](http://spector.babylonjs.com/) by [Seb](https://github.com/sebavan), [David Catuhe](https://twitter.com/deltakosh), [Julian Chenard](https://twitter.com/Temechon) and [David Rousset](https://twitter.com/davrous).
 > A complete engine agnostic JavaScript framework for exploring and troubleshooting your WebGL scenes with ease.
@@ -52,6 +52,6 @@ All cool things found on the Internet regarding WebGL
 1. [Shader Toy](https://www.shadertoy.com/)
 2. [WebGL Stats](https://webglstats.com/webgl) by [Florian Bösch](https://twitter.com/pyalot)
 3. [SIGGRAPH University - "An Introduction to WebGL Programming"](https://www.youtube.com/watch?v=tgVLb6fOVVc) by Edward Angel and Dave Shreiner at SIGGRAPH 2014 in Vancouver. As well available in [PDF form](https://www.cs.unm.edu/~angel/SIGGRAPH14/Introduction%20to%20WebGL%20Programming.pdf) as combination of speakers notes and slides.
-
+4. [GLSL Sandbox](http://glslsandbox.com/)
 ## Math
 1. [Linear Algebra: Vectors](https://www.khanacademy.org/computing/computer-programming/programming-natural-simulations/programming-vectors/a/intro-to-vectors) from "Advanced JS: Natural Simulations" by [Khan Academy](https://www.khanacademy.org/computing/computer-programming/programming-natural-simulations)
