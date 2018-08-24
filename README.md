@@ -27,6 +27,7 @@ All cool things found on the Internet regarding WebGL
 ## Debugging Tools
 1. [SpectorJS](http://spector.babylonjs.com/) by [Seb](https://github.com/sebavan), [David Catuhe](https://twitter.com/deltakosh), [Julian Chenard](https://twitter.com/Temechon) and [David Rousset](https://twitter.com/davrous).
 > A complete engine agnostic JavaScript framework for exploring and troubleshooting your WebGL scenes with ease.
+2. [WebGLDeveloperTools](https://github.com/KhronosGroup/WebGLDeveloperTools) by [Khronos Group](https://www.khronos.org/) with good [tutorial](https://www.khronos.org/webgl/wiki/Debugging) on how to setup.
 
 ### Browser 
 1. [WebGL Inspector](https://chrome.google.com/webstore/detail/webgl-inspector/ogkcjmbhnfmlnielkjhedpcjomeaghda) 
@@ -42,6 +43,8 @@ All cool things found on the Internet regarding WebGL
 ## Editor Intellisense
 1. Sublime Text Editor support for [WebGL](https://github.com/katsew/WebGLCompletions) by [Yu Kato](http://katsew.github.io/)
 2. MS Code Editor support with [TypeScript](https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/webgl-ext) can be installed with [npmjs.com](https://www.npmjs.com/package/@types/webgl-ext)
+ - [GLSL Lint for VS Code](https://marketplace.visualstudio.com/items?itemName=CADENAS.vscode-glsllint)
+ - [Shader languages support for VS Code](https://marketplace.visualstudio.com/items?itemName=slevesque.shader) 
 
 ## Frameworks
 1. [stackgl](https://stack.gl/) is an open software ecosystem for WebGL, built on top of browserify and npm.
