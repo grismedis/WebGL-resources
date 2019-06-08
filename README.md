@@ -1,5 +1,5 @@
-# WebGL-resources
-All cool things found on the Internet regarding WebGL
+# WebGL resources
+All cool resources to facilitate learning WebGL and using it.
 
 ## Books
 1. [The book of Shaders](https://thebookofshaders.com/) by Patricio Gonzalez Vivo and Jen Lowe.
@@ -19,6 +19,8 @@ All cool things found on the Internet regarding WebGL
 
 7. Reference card for [WebGL](https://www.khronos.org/files/webgl/webgl-reference-card-1_0.pdf) and [WebGL2](https://www.khronos.org/files/webgl20-reference-guide.pdf) by Khronos Group. 
 8. Nvidia's series of books about real-time computer graphics [GPU Gems](https://developer.nvidia.com/gpugems/GPUGems/gpugems_pref01.html) by NVIDIA Demo Team.
+9. [Learn webGl](learnwebgl.brown37.net) by C. Wayne Brown.
+> "Comprehensive covering both rendering pipeline and webgl."
 
 ## Interactive courses
  1. [Nodeschool: Shader School](https://github.com/stackgl/shader-school) by [Stackgl](https://stack.gl/)
@@ -57,5 +59,7 @@ All cool things found on the Internet regarding WebGL
 3. [SIGGRAPH University - "An Introduction to WebGL Programming"](https://www.youtube.com/watch?v=tgVLb6fOVVc) by Edward Angel and Dave Shreiner at SIGGRAPH 2014 in Vancouver. As well available in [PDF form](https://www.cs.unm.edu/~angel/SIGGRAPH14/Introduction%20to%20WebGL%20Programming.pdf) as combination of speakers notes and slides.
 4. [GLSL Sandbox](http://glslsandbox.com/)
 5. [Sketches Collection](http://yiwenl.github.io/Sketches/exps/30) by  [Wen aka @yiwen_lin](https://twitter.com/yiwen_lin)
+6. [A simplified diagram of the pipeline for OpenGL from v3.2](http://www.lighthouse3d.com/tutorials/glsl-tutorial/pipeline33/) by Lighthouse3D.
+
 ## Math
 1. [Linear Algebra: Vectors](https://www.khanacademy.org/computing/computer-programming/programming-natural-simulations/programming-vectors/a/intro-to-vectors) from "Advanced JS: Natural Simulations" by [Khan Academy](https://www.khanacademy.org/computing/computer-programming/programming-natural-simulations)
