@@ -11,7 +11,7 @@ All cool resources to facilitate learning WebGL and using it.
 > "WebGL from the ground up. No magic."
 
 3. [An introduction to Shaders](https://aerotwist.com/tutorials/an-introduction-to-shaders-part-1/) by Paul Lewis.
-4. [Primer: Shaders](https://notes.underscorediscovery.com/shaders-a-primer/) by @___discovery
+4. [Primer: Shaders](https://notes.underscorediscovery.com/shaders-a-primer/) by [___discovery](https://github.com/underscorediscovery)
 5. [WebGL Insights](http://webglinsights.com/) edited by [Patrick Cozzi](https://twitter.com/pjcozzi) and published by CRC Press.
 6. [Fragment Foundry](http://hughsk.io/fragment-foundry/chapters/01-hello-world.html) by Hugh Kennedy.
 
