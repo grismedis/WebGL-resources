@@ -2,25 +2,22 @@
 All cool resources to facilitate learning WebGL and using it.
 
 ## Books
+### WebGL
+1. [WebGL](https://webglfundamentals.org) and [WEbGL2](https://webgl2fundamentals.org/) Fundamentals by Gregg Tavares.
+  > "WebGL from the ground up. No magic."
+2. [WebGL Insights](http://webglinsights.com/) edited by [Patrick Cozzi](https://twitter.com/pjcozzi) and published by CRC Press.
+3. Nvidia's series of books about real-time computer graphics [GPU Gems](https://developer.nvidia.com/gpugems/GPUGems/gpugems_pref01.html) by NVIDIA Demo Team.
+4. [Learn WebGl](learnwebgl.brown37.net) by C. Wayne Brown.
+  > "Comprehensive covering both rendering pipeline and webgl."
+5. Reference card for [WebGL](https://www.khronos.org/files/webgl/webgl-reference-card-1_0.pdf) and [WebGL2](https://www.khronos.org/files/webgl20-reference-guide.pdf) by Khronos Group. 
+
+### Fragment Shaders
 1. [The book of Shaders](https://thebookofshaders.com/) by Patricio Gonzalez Vivo and Jen Lowe.
-
-> "This is a gentle step-by-step guide through the abstract and complex universe of Fragment Shaders."
-
-2. [WebGL](https://webglfundamentals.org) and [WEbGL2](https://webgl2fundamentals.org/) Fundamentals by Gregg Tavares.
-
-> "WebGL from the ground up. No magic."
-
-3. [An introduction to Shaders](https://aerotwist.com/tutorials/an-introduction-to-shaders-part-1/) by Paul Lewis.
-4. [Primer: Shaders](https://notes.underscorediscovery.com/shaders-a-primer/) by [___discovery](https://github.com/underscorediscovery)
-5. [WebGL Insights](http://webglinsights.com/) edited by [Patrick Cozzi](https://twitter.com/pjcozzi) and published by CRC Press.
-6. [Fragment Foundry](http://hughsk.io/fragment-foundry/chapters/01-hello-world.html) by Hugh Kennedy.
-
-> "This is a self-guided workshop introducing you to the magic of fragment shaders."
-
-7. Reference card for [WebGL](https://www.khronos.org/files/webgl/webgl-reference-card-1_0.pdf) and [WebGL2](https://www.khronos.org/files/webgl20-reference-guide.pdf) by Khronos Group. 
-8. Nvidia's series of books about real-time computer graphics [GPU Gems](https://developer.nvidia.com/gpugems/GPUGems/gpugems_pref01.html) by NVIDIA Demo Team.
-9. [Learn webGl](learnwebgl.brown37.net) by C. Wayne Brown.
-> "Comprehensive covering both rendering pipeline and webgl."
+  > "This is a gentle step-by-step guide through the abstract and complex universe of Fragment Shaders."
+2. [An introduction to Shaders](https://aerotwist.com/tutorials/an-introduction-to-shaders-part-1/) by Paul Lewis.
+3. [Primer: Shaders](https://notes.underscorediscovery.com/shaders-a-primer/) by [___discovery](https://github.com/underscorediscovery)
+4. [Fragment Foundry](http://hughsk.io/fragment-foundry/chapters/01-hello-world.html) by Hugh Kennedy.
+  > "This is a self-guided workshop introducing you to the magic of fragment shaders."
 
 ## Interactive courses
  1. [Nodeschool: Shader School](https://github.com/stackgl/shader-school) by [Stackgl](https://stack.gl/)
