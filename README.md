@@ -1,15 +1,15 @@
 # WebGL resources
 All cool resources to facilitate learning WebGL and using it.
 
-## Books
+## Learning Materials
 ### WebGL
-1. [WebGL](https://webglfundamentals.org) and [WEbGL2](https://webgl2fundamentals.org/) Fundamentals by Gregg Tavares.
+1. [WebGL](https://webglfundamentals.org) and [WEbGL2](https://webgl2fundamentals.org/) Fundamentals by [Gregg Tavares](https://github.com/greggman).
   > "WebGL from the ground up. No magic."
 2. [WebGL Insights](http://webglinsights.com/) edited by [Patrick Cozzi](https://twitter.com/pjcozzi) and published by CRC Press.
 3. Nvidia's series of books about real-time computer graphics [GPU Gems](https://developer.nvidia.com/gpugems/GPUGems/gpugems_pref01.html) by NVIDIA Demo Team.
 4. [Learn WebGl](learnwebgl.brown37.net) by C. Wayne Brown.
   > "Comprehensive covering both rendering pipeline and webgl."
-5. Reference card for [WebGL](https://www.khronos.org/files/webgl/webgl-reference-card-1_0.pdf) and [WebGL2](https://www.khronos.org/files/webgl20-reference-guide.pdf) by Khronos Group. 
+5. An interactive course from  [WebGL Academy](http://www.webglacademy.com/) by [Xavier Bourry](https://twitter.com/xavierbourry)
 
 ### Fragment Shaders
 1. [The book of Shaders](https://thebookofshaders.com/) by Patricio Gonzalez Vivo and Jen Lowe.
@@ -18,14 +18,12 @@ All cool resources to facilitate learning WebGL and using it.
 3. [Primer: Shaders](https://notes.underscorediscovery.com/shaders-a-primer/) by [___discovery](https://github.com/underscorediscovery)
 4. [Fragment Foundry](http://hughsk.io/fragment-foundry/chapters/01-hello-world.html) by Hugh Kennedy.
   > "This is a self-guided workshop introducing you to the magic of fragment shaders."
-
-## Interactive courses
- 1. [Nodeschool: Shader School](https://github.com/stackgl/shader-school) by [Stackgl](https://stack.gl/)
- 2. [WebGL Academy](http://www.webglacademy.com/)
+5. An interactive course [Shader School](https://github.com/stackgl/shader-school) by [Stackgl](https://stack.gl/)
  
-## Debugging Tools
+## Tools
+### Debugging
 1. [SpectorJS](http://spector.babylonjs.com/) by [Seb](https://github.com/sebavan), [David Catuhe](https://twitter.com/deltakosh), [Julian Chenard](https://twitter.com/Temechon) and [David Rousset](https://twitter.com/davrous).
-> A complete engine agnostic JavaScript framework for exploring and troubleshooting your WebGL scenes with ease.
+  > A complete engine agnostic JavaScript framework for exploring and troubleshooting your WebGL scenes with ease.
 2. [WebGLDeveloperTools](https://github.com/KhronosGroup/WebGLDeveloperTools) by [Khronos Group](https://www.khronos.org/) with good [tutorial](https://www.khronos.org/webgl/wiki/Debugging) on how to setup.
 
 ### Browser 
@@ -33,11 +31,10 @@ All cool resources to facilitate learning WebGL and using it.
 2. [WebGL Insight](https://chrome.google.com/webstore/detail/webgl-insight/djdcbmfacaaocoomokenoalbomllhnko) 
 3. Google Chrome "about:tracing" flalg, with article ["Profiling your WebGL Game with the about:tracking flag"](https://www.html5rocks.com/en/tutorials/games/abouttracing/) by Lilli Thompson
 4. Mozilla Firefox "Shader Editor" and "Canvas" within Developer Tools.
-5. Spector.js Plugin for [Firefox](https://addons.mozilla.org/en-US/firefox/addon/spector-js/) and [Chrome](https://chrome.google.com/webstore/detail/spectorjs/denbgaamihkadbghdceggmchnflmhpmk?hl=fil)
+5. [SpectorJS](http://spector.babylonjs.com/) Plugin for [Firefox](https://addons.mozilla.org/en-US/firefox/addon/spector-js/) and [Chrome](https://chrome.google.com/webstore/detail/spectorjs/denbgaamihkadbghdceggmchnflmhpmk?hl=fil)
 
 ### Desktop
-1. [PVRShaderEditor](https://community.imgtec.com/developers/powervr/tools/pvrshadereditor/) from PowerVR from ImaginationCommunity
-
+1. [PVRShaderEditor](https://www.imgtec.com/developers/powervr-sdk-tools/pvrshadereditor/) from PowerVR SDK from [Imagination](https://www.imgtec.com/)
 
 ## Editor Intellisense
 1. Sublime Text Editor support for [WebGL](https://github.com/katsew/WebGLCompletions) by [Yu Kato](http://katsew.github.io/)
@@ -57,6 +54,7 @@ All cool resources to facilitate learning WebGL and using it.
 4. [GLSL Sandbox](http://glslsandbox.com/)
 5. [Sketches Collection](http://yiwenl.github.io/Sketches/exps/30) by  [Wen aka @yiwen_lin](https://twitter.com/yiwen_lin)
 6. [A simplified diagram of the pipeline for OpenGL from v3.2](http://www.lighthouse3d.com/tutorials/glsl-tutorial/pipeline33/) by Lighthouse3D.
+7. Reference cards for [WebGL](https://www.khronos.org/files/webgl/webgl-reference-card-1_0.pdf) and [WebGL2](https://www.khronos.org/files/webgl20-reference-guide.pdf) by Khronos Group.
 
 ## Math
 1. [Linear Algebra: Vectors](https://www.khanacademy.org/computing/computer-programming/programming-natural-simulations/programming-vectors/a/intro-to-vectors) from "Advanced JS: Natural Simulations" by [Khan Academy](https://www.khanacademy.org/computing/computer-programming/programming-natural-simulations)
