@@ -30,7 +30,9 @@ All cool resources to facilitate learning WebGL and using it.
 1. [WebGL Inspector](https://chrome.google.com/webstore/detail/webgl-inspector/ogkcjmbhnfmlnielkjhedpcjomeaghda) 
 2. [WebGL Insight](https://chrome.google.com/webstore/detail/webgl-insight/djdcbmfacaaocoomokenoalbomllhnko) 
 3. Google Chrome "about:tracing" flalg, with article ["Profiling your WebGL Game with the about:tracking flag"](https://www.html5rocks.com/en/tutorials/games/abouttracing/) by Lilli Thompson
-4. Mozilla Firefox "Shader Editor" and "Canvas" within Developer Tools.
+4. Mozilla Firefox Developer Tools
+    - Shader Editor: [Depricated](https://developer.mozilla.org/en-US/docs/Tools/Deprecated_tools#Shader_editor)
+    - Canvas Debugger: [Depricated](https://developer.mozilla.org/en-US/docs/Tools/Deprecated_tools#Canvas_debugger)
 5. [SpectorJS](http://spector.babylonjs.com/) Plugin for [Firefox](https://addons.mozilla.org/en-US/firefox/addon/spector-js/) and [Chrome](https://chrome.google.com/webstore/detail/spectorjs/denbgaamihkadbghdceggmchnflmhpmk?hl=fil)
 
 ### Desktop
