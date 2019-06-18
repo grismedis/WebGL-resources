@@ -61,7 +61,7 @@ All cool resources to facilitate learning WebGL and using it.
 
 ## Math
 1. [Linear Algebra: Vectors](https://www.khanacademy.org/computing/computer-programming/programming-natural-simulations/programming-vectors/a/intro-to-vectors) from "Advanced JS: Natural Simulations" by [Khan Academy](https://www.khanacademy.org/computing/computer-programming/programming-natural-simulations)
-2. TypedArray Objects in [ECMA 6.0] (http://www.ecma-international.org/ecma-262/6.0/#sec-typedarray-objects)
+2. TypedArray Objects in [ECMA 6.0](http://www.ecma-international.org/ecma-262/6.0/#sec-typedarray-objects)
 
 ## Miscellaneous
 1. [Shader Toy](https://www.shadertoy.com/)
