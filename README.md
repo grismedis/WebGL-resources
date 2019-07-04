@@ -71,3 +71,4 @@ All cool resources to facilitate learning WebGL and using it.
 5. [A simplified diagram of the pipeline for OpenGL from v3.2](http://www.lighthouse3d.com/tutorials/glsl-tutorial/pipeline33/) by Lighthouse3D.
 6. Reference cards for [WebGL](https://www.khronos.org/files/webgl/webgl-reference-card-1_0.pdf) and [WebGL2](https://www.khronos.org/files/webgl20-reference-guide.pdf) by Khronos Group.
 7. [SIGGRAPH 2018: WebGL Latest Techniques](https://youtu.be/FCAM-3aAzXg?t=7177), get curious and scrub across all 8h :)
+8. [Learn Computer Graphics Programming from Scratch](https://www.scratchapixel.com/index.php) by [Scratchapixel](https://twitter.com/Scratchapixel)
